@@ -1,0 +1,27 @@
+{
+  "name": "testapp",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "@line/bot-sdk": "^6.0.1",
+    "express": "^4.16.3",
+    "google-home-notifier": "^1.2.0",
+    "line-bot-sdk": "^0.1.4",
+    "linebot": "^1.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishiguchiHiromi/google-home-with-LINE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishiguchiHiromi/google-home-with-LINE/issues"
+  },
+  "homepage": "https://github.com/NishiguchiHiromi/google-home-with-LINE#readme",
+  "description": ""
+}
